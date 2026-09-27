@@ -23,7 +23,7 @@ A plugin manager extension for Calagopus Panel that lets you browse, search, dow
 
 | Plugin Browser                             | Plugin Details                             |
 | ------------------------------------------ | ------------------------------------------ |
-| ![Plugin Browser](docs/plugin-browser.png) | ![Plugin Details](docs/plugin-details.png) |
+| ![Plugin Browser](plugin-browser.png) | ![Plugin Details](plugin-details.png) |
 
 ## Installation
 
